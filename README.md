@@ -1,28 +1,62 @@
-<h1 align="center">Hi 👋, I'm Shivang Saxena</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h2 align="center">
+  Welcome to Shivang Saxena profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivlink&label=Profile%20views&color=0e75b6&style=flat" alt="shivlink" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Engineer%F0%9F%92%BB;I'm+Cyber+Security+Enthusiast;Have+Knowledge+of+Ethical+Hacking;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivlink" alt="shivlink" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivlink/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivang__saxena/)
 
-- 💬 Ask me about **C,C++,Linux,Operating Systems,IoT**
+<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
-- ⚡ Fun fact **I am a passionate singer :)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shivlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivlink/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shivang.saxena.1051999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shivang.saxena.1051999/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shivang__saxena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shivang__saxena/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivlink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivlink" height="30" width="40" /></a>
-<a href="https://leetcode.com/shivlink/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivlink/" height="30" width="40" /></a>
-</p>
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pathakabhi24&style=flat-square&color=0088cc)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+I'm graduated with a Degree in Bachelor of Technology in Computer Science & Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning Cyber Security 🕸️ and working on strong my knowledge on Networking and Ethical Hacking 🤓.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivlink&show_icons=true&locale=en&layout=compact" alt="shivlink" /></p>
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivlink&show_icons=true&locale=en" alt="shivlink" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivlink&" alt="shivlink" /></p>
+
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working on  : Embedded Systems , Internet of Things(IoT) , Computer Networks.
+- 🚀 &nbsp; I’m currently learning  : Open Source Development , Linux Networking.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivlink).
+- 💬 &nbsp; Ask me about anything [here](https://www.instagram.com/shivang__saxena/)! I am happy to help.
+- 👾 &nbsp; Fun fact: I love to sing . 
+- 📫 &nbsp; How to reach me: shivangsaxena1@gmail.com.
+- 📝 <!-- &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing). -->
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
+
+<br />
+<br />
+
+## ⚡ GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivlink&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivlink&layout=compact&count_private=true&theme=gruvbox" />
+
+
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+
