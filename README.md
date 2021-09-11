@@ -30,18 +30,15 @@ P.S : I am a good singer and love to explore :)
 - 💬 &nbsp; Ask me about anything [here](https://www.instagram.com/shivang__saxena/)! I am happy to help.
 - 👾 &nbsp; Fun fact: I love to sing . 
 - 📫 &nbsp; How to reach me: shivangsaxena1@gmail.com.
-- <!--📝  &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing). -->
+<!--📝  &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing). -->
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 💻 &nbsp; I Just love to code in C/C++. They are just ❤️.
+- 📰 &nbsp; I am a Tech Geek who loves to solve real world problems.
 
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
 
 <br />
 <br />
