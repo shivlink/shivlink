@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Engineer%F0%9F%92%BB;I'm+Cyber+Security+Enthusiast;Have+Knowledge+of+Ethical+Hacking;Always+try+to+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Software+Developer%F0%9F%92%BB;Working+on+Embedded+Systems;A+System+Programming+Enthusiast;A+Passionate+Singer)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivlink/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivang__saxena/)
