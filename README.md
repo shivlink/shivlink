@@ -13,9 +13,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pathakabhi24&style=flat-square&color=0088cc)
 
-I'm graduated with a Degree in Bachelor of Technology in Computer Science & Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning Cyber Security 🕸️ and working on strong my knowledge on Networking and Ethical Hacking 🤓.
+I'm graduated with a Bachelors Degree in Computer Science & Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to work on low level systems to solve real-life problems ✨. I'm currently a working professional🕸️. Have a strong knowledge of Systems and Development 🤓.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+P.S : I am a good singer and love to explore :)
 
 
 
@@ -28,7 +30,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 &nbsp; Ask me about anything [here](https://www.instagram.com/shivang__saxena/)! I am happy to help.
 - 👾 &nbsp; Fun fact: I love to sing . 
 - 📫 &nbsp; How to reach me: shivangsaxena1@gmail.com.
-- 📝 <!-- &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing). -->
+- <!--📝  &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing). -->
 
 ### My Absolute Favorites:
 
