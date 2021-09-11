@@ -37,7 +37,6 @@ P.S : I am a good singer and love to explore :)
 - 💻 &nbsp; I Just love to code in C/C++. They are just ❤️.
 - 📰 &nbsp; I am a Tech Geek who loves to solve real world problems.
 
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
 
 <br />
