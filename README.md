@@ -37,9 +37,6 @@ P.S : I am a good singer and love to explore :)
 - 💻 &nbsp; I Just love to code in C/C++. They are just ❤️.
 - 📰 &nbsp; I am a Tech Geek who loves to solve real world problems.
 
-
-
-<br />
 <br />
 
 ## ⚡ GitHub Stats
